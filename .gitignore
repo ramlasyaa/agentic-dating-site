@@ -1,0 +1,14 @@
+# Node & Dependencies
+node_modules/
+frontend/node_modules/
+
+# Python & Virtualenv
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# Builds & Cache
+frontend/dist/
+.DS_Store
+*.log
