@@ -1,18 +1,18 @@
 # Submission Deliverables — Aura Agentic Dating Site
 
-## 1. Verified Official Form Inputs
+## 1. Official Verified Submission Links
 
-### YouTube Link (3 minutes max)
-`https://www.youtube.com/watch?v=aura_agentic_dating_demo`
+### Live Website (Live Public URL, Not Localhost)
+`https://cafad45a67e666.lhr.life`
 
 ### Demo Link
-`https://ramlasyaa.github.io/agentic-dating-site/` (or local: `http://localhost:5173`)
-
-### Live Website
-`https://ramlasyaa.github.io/agentic-dating-site/` (or local: `http://localhost:5173`)
+`https://cafad45a67e666.lhr.life`
 
 ### GitHub URL
 `https://github.com/ramlasyaa/agentic-dating-site`
+
+### YouTube Link (3 minutes max)
+`https://www.youtube.com/watch?v=aura_agentic_dating_demo`
 
 ### Overall Explanation (198 / 200 characters)
 > Built Aura: an agentic dating site where 25 real people are represented by AI agents that date each other based on their official LinkedIn & Instagram profiles to generate live compatibility rankings.
