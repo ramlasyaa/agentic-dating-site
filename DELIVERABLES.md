@@ -2,11 +2,11 @@
 
 ## 1. Official Verified Submission Links
 
-### Live Website (Live Public URL, Not Localhost)
-`https://cafad45a67e666.lhr.life`
+### Live Website (Active Public HTTPS URL)
+`https://c7872608a5cedf.lhr.life`
 
 ### Demo Link
-`https://cafad45a67e666.lhr.life`
+`https://c7872608a5cedf.lhr.life`
 
 ### GitHub URL
 `https://github.com/ramlasyaa/agentic-dating-site`
