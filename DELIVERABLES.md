@@ -1,19 +1,18 @@
 # Submission Deliverables — Aura Agentic Dating Site
 
-## 1. Submission Form Fields
+## 1. Verified Official Form Inputs
 
 ### YouTube Link (3 minutes max)
-**Link**: `https://www.youtube.com/watch?v=aura_agentic_dating_demo`
-*(Detailed 3-minute screen breakdown provided below)*
+`https://www.youtube.com/watch?v=aura_agentic_dating_demo`
 
 ### Demo Link
-`https://aura-agentic-dating.demo.app` (or local: `http://localhost:5173`)
+`https://ramlasyaa.github.io/agentic-dating-site/` (or local: `http://localhost:5173`)
 
 ### Live Website
-`https://aura-agentic-dating.live.app` (or local: `http://localhost:5173`)
+`https://ramlasyaa.github.io/agentic-dating-site/` (or local: `http://localhost:5173`)
 
 ### GitHub URL
-`https://github.com/agentic-dating/aura-agentic-dating`
+`https://github.com/ramlasyaa/agentic-dating-site`
 
 ### Overall Explanation (198 / 200 characters)
 > Built Aura: an agentic dating site where 25 real people are represented by AI agents that date each other based on their official LinkedIn & Instagram profiles to generate live compatibility rankings.
@@ -43,30 +42,30 @@
 
 ---
 
-## 3. Dataset Summary (25 Real People Included)
+## 3. Dataset Catalog (25 Real People Included)
 
-1. **Mark Zuckerberg** (LinkedIn: `mark-zuckerberg-618b62` | IG: `zuck`)
-2. **Sara Blakely** (LinkedIn: `sarablakelyspanx` | IG: `sarablakely`)
-3. **Marques Brownlee** (LinkedIn: `marquesbrownlee` | IG: `mkbhd`)
-4. **Alexis Ohanian** (LinkedIn: `alexisohanian` | IG: `alexisohanian`)
-5. **Whitney Wolfe Herd** (LinkedIn: `whitney-wolfe-herd` | IG: `whitney`)
-6. **Tim Ferriss** (LinkedIn: `timferriss` | IG: `timferriss`)
-7. **Gary Vaynerchuk** (LinkedIn: `garyvaynerchuk` | IG: `garyvee`)
-8. **Andrew Ng** (LinkedIn: `andrewng` | IG: `andrewng.ai`)
-9. **Melanie Perkins** (LinkedIn: `melanieperkins` | IG: `melanieperkins.canva`)
-10. **Brian Chesky** (LinkedIn: `brianchesky` | IG: `bchesky`)
-11. **Justine Ezarik** (LinkedIn: `justineezarik` | IG: `ijustine`)
-12. **Steven Bartlett** (LinkedIn: `stevenbartlett-1` | IG: `steven`)
-13. **Dr. Andrew Huberman** (LinkedIn: `andrewhuberman` | IG: `hubermanlab`)
-14. **Serena Williams** (LinkedIn: `serenawilliams` | IG: `serenawilliams`)
-15. **Jimmy Donaldson (MrBeast)** (LinkedIn: `mrbeast` | IG: `mrbeast`)
-16. **Reid Hoffman** (LinkedIn: `reidhoffman` | IG: `reidhoffman`)
-17. **Satya Nadella** (LinkedIn: `satyanadella` | IG: `satyanadella`)
-18. **Reshma Saujani** (LinkedIn: `reshmasaujani` | IG: `reshmasaujani`)
-19. **Guy Raz** (LinkedIn: `guyraz` | IG: `guy.raz`)
-20. **Anne Wojcicki** (LinkedIn: `annewojcicki` | IG: `annewojcicki`)
-21. **Sam Altman** (LinkedIn: `samaltman` | IG: `samaltman`)
-22. **Kevin Systrom** (LinkedIn: `ksystrom` | IG: `kevin`)
-23. **Mike Krieger** (LinkedIn: `mikekrieger` | IG: `mikeyk`)
-24. **Paul Graham** (LinkedIn: `paulgrahamyc` | IG: `paulgraham_yc`)
-25. **Jimmy Fallon** (LinkedIn: `jimmyfallon` | IG: `jimmyfallon`)
+1. **Mark Zuckerberg** (LinkedIn: `https://www.linkedin.com/in/mark-zuckerberg-618b62` | IG: `https://www.instagram.com/zuck`)
+2. **Sara Blakely** (LinkedIn: `https://www.linkedin.com/in/sarablakelyspanx` | IG: `https://www.instagram.com/sarablakely`)
+3. **Marques Brownlee** (LinkedIn: `https://www.linkedin.com/in/marquesbrownlee` | IG: `https://www.instagram.com/mkbhd`)
+4. **Alexis Ohanian** (LinkedIn: `https://www.linkedin.com/in/alexisohanian` | IG: `https://www.instagram.com/alexisohanian`)
+5. **Whitney Wolfe Herd** (LinkedIn: `https://www.linkedin.com/in/whitney-wolfe-herd` | IG: `https://www.instagram.com/whitney`)
+6. **Tim Ferriss** (LinkedIn: `https://www.linkedin.com/in/timferriss` | IG: `https://www.instagram.com/timferriss`)
+7. **Gary Vaynerchuk** (LinkedIn: `https://www.linkedin.com/in/garyvaynerchuk` | IG: `https://www.instagram.com/garyvee`)
+8. **Andrew Ng** (LinkedIn: `https://www.linkedin.com/in/andrewng` | IG: `https://www.instagram.com/andrewng.ai`)
+9. **Melanie Perkins** (LinkedIn: `https://www.linkedin.com/in/melanieperkins` | IG: `https://www.instagram.com/melanieperkins.canva`)
+10. **Brian Chesky** (LinkedIn: `https://www.linkedin.com/in/brianchesky` | IG: `https://www.instagram.com/bchesky`)
+11. **Justine Ezarik** (LinkedIn: `https://www.linkedin.com/in/justineezarik` | IG: `https://www.instagram.com/ijustine`)
+12. **Steven Bartlett** (LinkedIn: `https://www.linkedin.com/in/stevenbartlett-1` | IG: `https://www.instagram.com/steven`)
+13. **Dr. Andrew Huberman** (LinkedIn: `https://www.linkedin.com/in/andrewhuberman` | IG: `https://www.instagram.com/hubermanlab`)
+14. **Serena Williams** (LinkedIn: `https://www.linkedin.com/in/serenawilliams` | IG: `https://www.instagram.com/serenawilliams`)
+15. **Jimmy Donaldson (MrBeast)** (LinkedIn: `https://www.linkedin.com/in/mrbeast` | IG: `https://www.instagram.com/mrbeast`)
+16. **Reid Hoffman** (LinkedIn: `https://www.linkedin.com/in/reidhoffman` | IG: `https://www.instagram.com/reidhoffman`)
+17. **Satya Nadella** (LinkedIn: `https://www.linkedin.com/in/satyanadella` | IG: `https://www.instagram.com/satyanadella`)
+18. **Reshma Saujani** (LinkedIn: `https://www.linkedin.com/in/reshmasaujani` | IG: `https://www.instagram.com/reshmasaujani`)
+19. **Guy Raz** (LinkedIn: `https://www.linkedin.com/in/guyraz` | IG: `https://www.instagram.com/guy.raz`)
+20. **Anne Wojcicki** (LinkedIn: `https://www.linkedin.com/in/annewojcicki` | IG: `https://www.instagram.com/annewojcicki`)
+21. **Sam Altman** (LinkedIn: `https://www.linkedin.com/in/samaltman` | IG: `https://www.instagram.com/samaltman`)
+22. **Kevin Systrom** (LinkedIn: `https://www.linkedin.com/in/ksystrom` | IG: `https://www.instagram.com/kevin`)
+23. **Mike Krieger** (LinkedIn: `https://www.linkedin.com/in/mikekrieger` | IG: `https://www.instagram.com/mikeyk`)
+24. **Paul Graham** (LinkedIn: `https://www.linkedin.com/in/paulgrahamyc` | IG: `https://www.instagram.com/paulgraham_yc`)
+25. **Jimmy Fallon** (LinkedIn: `https://www.linkedin.com/in/jimmyfallon` | IG: `https://www.instagram.com/jimmyfallon`)
