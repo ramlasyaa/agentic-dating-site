@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Navbar from './components/Navbar';
 import ProfileCard from './components/ProfileCard';
+import ProfileModal from './components/ProfileModal';
 import DateSimulator from './components/DateSimulator';
 import RankingsView from './components/RankingsView';
 import LinkIngestion from './components/LinkIngestion';
@@ -13,6 +14,7 @@ export default function App() {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedP1, setSelectedP1] = useState(null);
   const [selectedP2, setSelectedP2] = useState(null);
+  const [modalProfile, setModalProfile] = useState(null);
   const [dateResult, setDateResult] = useState(null);
   const [loading, setLoading] = useState(false);
 
@@ -59,7 +61,6 @@ export default function App() {
 
   const handleSelectForDateFromCard = (p1) => {
     setSelectedP1(p1);
-    // Find a good match for p2
     const p1Rankings = rankings[p1.id];
     if (p1Rankings && p1Rankings.length > 0) {
       const topMatchId = p1Rankings[0].match_person_id;
@@ -125,7 +126,7 @@ export default function App() {
           <div className="max-w-3xl relative z-10 space-y-4">
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-pink-500/10 text-pink-400 border border-pink-500/20 text-xs font-extrabold uppercase tracking-wider">
               <Sparkles className="w-3.5 h-3.5" />
-              <span>Two Official Sources: LinkedIn + Public Instagram</span>
+              <span>Two Official Sources: Public LinkedIn + Public Instagram</span>
             </div>
 
             <h1 className="text-4xl md:text-5xl font-black tracking-tight text-white leading-tight">
@@ -198,6 +199,7 @@ export default function App() {
                 <ProfileCard
                   key={profile.id}
                   profile={profile}
+                  onSelectProfile={(p) => setModalProfile(p)}
                   onStartDate={() => handleSelectForDateFromCard(profile)}
                   onViewRankings={() => handleViewRankingsFromCard(profile)}
                 />
@@ -234,6 +236,15 @@ export default function App() {
         )}
 
       </main>
+
+      {/* Profile Detail Modal */}
+      {modalProfile && (
+        <ProfileModal
+          profile={modalProfile}
+          onClose={() => setModalProfile(null)}
+          onStartDate={(p) => handleSelectForDateFromCard(p)}
+        />
+      )}
 
       {/* Footer */}
       <footer className="glass-panel border-t border-slate-800/80 mt-16 py-8">
